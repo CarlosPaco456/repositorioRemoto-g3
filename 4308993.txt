@@ -1,0 +1,1 @@
+Git es uno de los sistemas de control de versiones más populares en la comunidad de desarrolladores.Conceptos básicos de Git Repositorio (Repository) Área de preparación (Staging area) Commit Rama (Branch) Fusionar (Merge)
