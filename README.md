@@ -8,6 +8,7 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 
 - [@Carlos](https://www.github.com/octokatherine)
 - [@segundo autor](https://www.github.com/octokatherine)
+- [@Obed Isaí Copa Apaza](https://github.com/isaicopa)
 
 
 ## variables de entorno
