@@ -1,0 +1,15 @@
+clases de GIT
+
+Verificar la versión de GIT
+git –-version
+
+configuración inicial de git
+git config --global user.name “Tu Nombre”
+git config --global user.email “tu correo electronico@.mail.com”
+git config --global core.editor “nano”
+
+Crear repositorio
+inicializar repositorio:
+git --init
+git --init “nombre_proyecto”
+git --init --INITIAL-BRANCH=MASTER
