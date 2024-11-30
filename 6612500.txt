@@ -13,3 +13,8 @@ inicializar repositorio:
 git --init
 git --init “nombre_proyecto”
 git --init --INITIAL-BRANCH=MASTER
+
+git status
+git diff
+git branch
+
