@@ -1,0 +1,5 @@
+En este curso se aprendio a trabajar con versiones para un 
+mejor orden y seguimiento de cada repositorio que tengamos, 
+podemos tener un espacio en gitHub para poder colaborar con 
+otros desarrolladores, podemos tener tag, que es un vesion de 
+nuestro repositorio.

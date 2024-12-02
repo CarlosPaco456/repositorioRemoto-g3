@@ -11,6 +11,7 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 - [@Obed Isaí Copa Apaza](https://github.com/isaicopa/)
 - [@Mariane Silvia Rendon Pacheco](https://github.com/marianenew) 
 - [@Donato Molina Cruz](https://github.com/DonatoMC) 
+- [@Dennis Oliver Saravia Quino](https://github.com/Sys-SQ)
 
 ## variables de entorno
 
