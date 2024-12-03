@@ -2,3 +2,6 @@
 
 Esta descipción es para el punto 4:
 En su rama creada, agregar un archivo de texto con tu ci (12345678.txt) y escribir una breve descripción de lo que aprendiste en el curso y has un commit de los cambios.
+
+Esta modificación es para el punto 14:
+Realiza un cambio en el archivo que lleva tu ci y realiza un commit y luego modifica un archivo a elección y agrégalo al este último commit.
