@@ -13,6 +13,7 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 - [@Donato Molina Cruz](https://github.com/DonatoMC) 
 - [@Dennis Oliver Saravia Quino](https://github.com/Sys-SQ)
 - [@Rudy Cauna Condori](https://github.com/RudyCauna)
+- [@fermi-m] (https://github.com/fermi-m)
 
 ## variables de entorno
 
