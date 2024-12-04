@@ -1,1 +1,2 @@
-Durante la clase se apredio diferentes comandos para una mejora practica con git
+Durante la clase se apredío diferentes comandos para una mejora practica con git
+ editando el archivo para los nuevos cambios del paso6
