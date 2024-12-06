@@ -1,7 +1,7 @@
 
 # Repositorio Remoto
 
-este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
+Este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 
 
 ## Autores

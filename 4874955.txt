@@ -1,3 +1,4 @@
+Creado por Lizeth Coaquira Quisbert 
 "Git es un sistema de control de versiones distribuido que permite gestionar proyectos y su historial de cambios" 
 
 Git es una herramienta esencial para desarrolladores, 
