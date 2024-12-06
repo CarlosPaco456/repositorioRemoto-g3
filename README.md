@@ -13,13 +13,9 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 - [@Donato Molina Cruz](https://github.com/DonatoMC) 
 - [@Dennis Oliver Saravia Quino](https://github.com/Sys-SQ)
 - [@Rudy Cauna Condori](https://github.com/RudyCauna)
-<<<<<<< HEAD
-- [@fermi-m] (https://github.com/fermi-m)
-
-=======
 - [@Franklin Benz Mamani Mamani](https://github.com/franklinbmm) 
 - [@Kevin Miguel Acho Condori](https://github.com/ElKevinM69)
->>>>>>> 2cfe8f27ddd7120d7f15c81822c2bec20c04ca70
+- [@Lizeth Coaquira Quisbert](https://github.com/lizcoaquira)
 ## variables de entorno
 
 Se deben configurar las siguientes variables de entorno en su archivo .env
